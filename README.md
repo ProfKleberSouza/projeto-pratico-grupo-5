@@ -1,18 +1,19 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO`
 
-`DISCIPLINA`
+`DESENVOLVIMENTO DE APLICAÇÕES DISTRIBUÍDAS`
 
-`SEMESTRE`
+`7º PERÍODO`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Assuério Batista dos Santos
+- Lucas Braga Ferreira
+- Marcos Pablo Souza de Almeida
+- Reinaldo Ruggiere Bell da Cruz
+- Wendrya Andrade Oliveira
 
 # Documentação
 
