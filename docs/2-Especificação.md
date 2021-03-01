@@ -61,8 +61,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser compatível com dispositivos móveis (*Android e iOS*) | MÉDIA | 
+|RNF-002| O sistema deve possuir uma versão *Web* compatível com os navegadores de internet Google Chrome, Firefox, Safari e Mircrosoft Edge  |  MÉDIA | 
+|RNF-003| O sistema deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
+|RNF-004| O sistema deve possuir uma interface com boa usabilidade, de fácil utilização |  MÉDIA | 
+|RNF-005| O sistema deve promover fácil aprendizado em sua utilização |  MÉDIA | 
+|RNF-006| O sistema deve possuir boa manutenibilidade, tal qual possibilite reparos e evoluções futuras      |  BAIXA | 
+|RNF-007| O sistema deve operar com alta taxa de disponibilidade, acima de 95%      |  ALTA | 
+|RNF-008| O sistema deverá atender às normas legais da Lei Geral de Proteção dos Dados (LGPD)         |  ALTA | 
+|RNF-009| O sistema deve permitir que somente o perfil de Administrador efetue alterações e configurações dos demais perfis existentes  |  BAIXA | 
+|RNF-010| O sistema deve exigir a autenticação de seus respectivos usuários para ser utilizado |  BAIXA | 
+|RNF-011| Os dispositivos móveis (*Smartphones*) devem possuir no mínimo um processador com dois núcleos físicos, 2GB de memória RAM e 4GB de armazenamento interno       |  BAIXA | 
+|RNF-012| O sistema deve efetuar a comunicação e tranporte de informações através do protocolo *Hypertext Transfer Protocol* (HTTP)         |  BAIXA | 
+|RNF-013| O sistema deve ser submetido a testes de unidade, integração e aceitação       |  BAIXA | 
+|RNF-014| A versão do sistema compatível com dispositivos móveis deve ser desenvolvida utilizando o *framework* Flutter, da linguagem de programação Dart     |  MÉDIA | 
+|RNF-015| A versão *Web* do sistema deve ser desenvolvida utilizando o *framework* Angular, da linguagem de programação Javascript        |  MÉDIA | 
+|RNF-016| O sistema deve possuir uma API, a qual deve ser desenvolvida utilizando o *framework* .Net Core, da linguagem de programação C#         |  MÉDIA | 
+|RNF-017| O sistema deve utilizar o banco de dados relacional Microsoft SQL Server        |  BAIXA | 
 
 ## Restrições
 
