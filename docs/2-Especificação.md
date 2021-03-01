@@ -54,7 +54,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-011| Permitir ao secretário alterar o status das contas de psicólogos e pacientes para aprovado ou reprovado   | ALTA |
 |RF-012| Permitir ao secretário ordenar a listagem de psicólogos e pacientes pela data de criação, nome e quantidade de horários de vagos abertos no mês ou semana   | MÉDIA |
 |RF-013| Permitir ao visualizar de forma detalhada os dados de psicólogos e pacientes   | ALTA |
-|RF-014| Permitir ao visualizar de forma detalhada os dados de psicólogos e pacientes   | ALTA |
+|RF-014| Permitir aos pacientes e psicólogos alterar seus dados cadastrais   | MÉDIA |
+|RF-015| Permitir aos pacientes e psicólogos visualizar o status da sua conta    | MÉDIA |
+|RF-016| Permitir aos psicólogos visualizar sua lista de horários marcados e pendentes  | ALTA |
+|RF-017| Permitir aos psicólogos visualizar os dados de pacientes que irá atender   | ALTA |
+|RF-018| Permitir aos pacientes visualizar uma lista com seus horários marcados   | ALTA |
+|RF-019| Permitir aos pacientes informar restrições de horários caso exista   | BAIXA |
 
 
 ### Requisitos não Funcionais
