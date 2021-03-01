@@ -12,21 +12,8 @@
 | ***1***  | Ernesto tem 21 anos, está cursando Sistemas de Informação e atua na área como desenvolvedor de sistemas para arcar com os custos da faculdade. Diante do cenário de pandemia, com o isolamento social e a pressão por conta do emprego e da faculdade, Ernesto tem desenvolvido alguns sintomas de ansiedade e passou a ver a necessidade de conversar com um psicológo.|
 | ***2***  | Ana Clara tem 13 anos, está no 8º ano do ensino fundamental e é constantemente vítima de bullying de seus colegas de classe, além de não conseguir dialogar com seus pais o que vem gerando um grave quadro de depressão que necessita de atenção médica.|
 |  ***3*** | Roberto é recém formado em psicologia e sempre teve atenção para causas sociais, agora com seu diploma ele vê a oportunidade de prestar ajuda profissional a pessoas que necessitam de atendimento psicológico mas não tem condição financeira para arcar com os custos de uma consulta. Roberto está buscando alguma ONG que o possibilite fazer alguns atendimentos de forma gratuita.|
+|  ***4*** | Paula é gerente uma ONG que atende membros da comunidade de forma gratuita  |
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -73,8 +60,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuario cadastre-se no sistema como paciente ou psicólogo | ALTA | 
+|RF-002| Permitir ao usuário autenticar-se no sistema informando email e senha | ALTA |
+|RF-003| Permitir ao psicólogo especificar quais são seus horários de disponibilidade   | MÉDIA |
+|RF-004| Permitir a secretária alocar consultas entre um paciente um psicólogo   | ALTA |
+|RF-005| Permitir ao usuário alterar sua senha por confirmação de email   | BAIXA |
+|RF-006| Permitir ao administrador criar, alterar e excluir contas de secretário(a)  | MÉDIA |
+|RF-007| Permitir ao secretário visualizar a quantidade de horários vagos disponíveis do mês ou semana corrente   | MÉDIA |
+|RF-008| Permitir ao secretário visualizar um relatório dos registros de psicólogo e paciente   | BAIXA |
+|RF-009| Permitir ao secretário visualizar uma listagem com os dados e situação da conta de psicólogos e pacientes   | BAIXA |
+|RF-010| Permitir ao secretário alterar o status das contas de psicólogos e pacientes para aprovado ou reprovado   | ALTA |
 
 
 ### Requisitos não Funcionais
