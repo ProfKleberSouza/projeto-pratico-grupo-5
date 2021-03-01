@@ -46,20 +46,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Permitir ao psicólogo especificar quais são seus horários de disponibilidade   | MÉDIA |
 |RF-004| Permitir ao secretário alocar consultas entre pacientes e psicólogos aprovados   | ALTA |
 |RF-005| Permitir ao usuário alterar sua senha por confirmação de email   | BAIXA |
-|RF-006| Permitir ao administrador criar, alterar e excluir contas de secretário(a)  | MÉDIA |
+|RF-006| Permitir ao administrador criar, alterar e excluir contas de secretários  | MÉDIA |
 |RF-007| Permitir ao secretário visualizar a quantidade de horários vagos disponíveis do mês ou semana corrente   | MÉDIA |
 |RF-008| Permitir ao secretário visualizar um relatório dos registros de psicólogo e paciente   | BAIXA |
 |RF-009| Permitir ao secretário visualizar uma listagem com os dados e situação da conta de psicólogos e pacientes   | ALTA |
 |RF-010| Permitir ao secretário filtrar pelo nome e status a listagem de psicólogos e pacientes   | MÉDIA |
 |RF-011| Permitir ao secretário alterar o status das contas de psicólogos e pacientes para aprovado ou reprovado   | ALTA |
-|RF-012| Permitir ao secretário ordenar a listagem de psicólogos e pacientes pela data de criação, nome e quantidade de horários de vagos abertos no mês ou semana   | MÉDIA |
-|RF-013| Permitir ao visualizar de forma detalhada os dados de psicólogos e pacientes   | ALTA |
-|RF-014| Permitir aos pacientes e psicólogos alterar seus dados cadastrais   | MÉDIA |
-|RF-015| Permitir aos pacientes e psicólogos visualizar o status da sua conta    | MÉDIA |
-|RF-016| Permitir aos psicólogos visualizar sua lista de horários marcados e pendentes  | ALTA |
-|RF-017| Permitir aos psicólogos visualizar os dados de pacientes que irá atender   | ALTA |
-|RF-018| Permitir aos pacientes visualizar uma lista com seus horários marcados   | ALTA |
-|RF-019| Permitir aos pacientes informar restrições de horários caso exista   | BAIXA |
+|RF-012| Permitir ao secretário ordenar a listagem de psicólogos pela data de criação, nome e quantidade de horários vagos no mês ou semana   | MÉDIA |
+|RF-013| Permitir ao secretário ordenar a listagem de pacientes pela data de criação e nome   | MÉDIA |
+|RF-014| Permitir ao secretário visualizar de forma detalhada os dados de psicólogos e pacientes   | ALTA |
+|RF-015| Permitir aos pacientes e psicólogos alterar seus dados cadastrais   | MÉDIA |
+|RF-016| Permitir aos pacientes e psicólogos visualizar o status da sua conta    | MÉDIA |
+|RF-017| Permitir aos psicólogos visualizar sua lista de horários marcados e pendentes  | ALTA |
+|RF-018| Permitir aos psicólogos visualizar os dados e o histórico de atendimento de pacientes que irá atender   | ALTA |
+|RF-019| Permitir aos pacientes visualizar uma lista com seus horários marcados   | ALTA |
+|RF-20| Permitir aos pacientes informar restrições de horários caso existam   | BAIXA |
 
 
 ### Requisitos não Funcionais
