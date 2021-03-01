@@ -7,19 +7,11 @@
 > realizar a especificações do projeto
 
 ## Personas
-
-***Exemplo-*** Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
-
-***1-*** Ernesto tem 21 anos, está cursando Sistemas de Informação e atua na área como desenvolvedor de sistemas para arcar com os custos da faculdade. Diante do cenário de pandemia, com o isolamento social e a pressão por conta do emprego e da faculdade, Ernesto tem desenvolvido alguns sintomas de ansiedade e passou a ver a necessidade de conversar com um psicológo.
-
-***2-*** Ana Clara tem 13 anos, está no 8º ano do ensino fundamental e é constantemente vítima de bullying de seus colegas de classe, além de não conseguir dialogar com seus pais o que vem gerando um grave quadro de depressão que necessita de atenção médica.
-
-***3-*** Roberto é recém formado em psicologia e sempre teve atenção para causas sociais, agora com seu diploma ele vê a oportunidade de prestar ajuda profissional a pessoas que necessitam de atendimento psicológico mas não tem condição financeira para arcar com os custos de uma consulta. Roberto está buscando alguma ONG que o possibilite fazer alguns atendimentos de forma gratuita.
-
+|Id        | Persona                                                            |
+|----------|--------------------------------------------------------------------|
+| ***1***  | Ernesto tem 21 anos, está cursando Sistemas de Informação e atua na área como desenvolvedor de sistemas para arcar com os custos da faculdade. Diante do cenário de pandemia, com o isolamento social e a pressão por conta do emprego e da faculdade, Ernesto tem desenvolvido alguns sintomas de ansiedade e passou a ver a necessidade de conversar com um psicológo.|
+| ***2***  | Ana Clara tem 13 anos, está no 8º ano do ensino fundamental e é constantemente vítima de bullying de seus colegas de classe, além de não conseguir dialogar com seus pais o que vem gerando um grave quadro de depressão que necessita de atenção médica.|
+|  ***3*** | Roberto é recém formado em psicologia e sempre teve atenção para causas sociais, agora com seu diploma ele vê a oportunidade de prestar ajuda profissional a pessoas que necessitam de atendimento psicológico mas não tem condição financeira para arcar com os custos de uma consulta. Roberto está buscando alguma ONG que o possibilite fazer alguns atendimentos de forma gratuita.|
 
 > Enumere e detalhe as personas da sua solução. Para
 > tanto, baseie-se tanto nos documentos disponibilizados na disciplina
@@ -112,8 +104,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até o final do semestre letivo |
+|02| O projeto se limita a atender todos os requisitos funcionais, requisitos não funcionais e funcionalidades especificadas neste documento |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
