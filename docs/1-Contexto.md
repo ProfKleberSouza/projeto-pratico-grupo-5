@@ -1,15 +1,15 @@
 # Introdução
 
 ## Problema
-A PUC-PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando (pandemia causada pelo coronavírus) fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
+A AstlaApp é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando (pandemia causada pelo coronavírus) fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
 
 ## Objetivos
 
-Visando resolver o problema da administração de cadastros e agendas dos profissionais da psicologia que atendem através da ONG PUC-PSI foi proposto o desenvolvimento de uma ferramenta a fim de facilitar o manuseio destes dado em uma solução que centralize as informações de agendamento e cadastro dos profissionais. 
+Visando resolver o problema da administração de cadastros e agendas dos profissionais da psicologia que atendem através da ONG AstlaApp foi proposto o desenvolvimento de uma ferramenta a fim de facilitar o manuseio destes dado em uma solução que centralize as informações de agendamento e cadastro dos profissionais. 
 
 ## Justificativa
 
-O que incentivou a realização desta aplicação é entender que com a atual pandemia, se tornou necessária algumas mudanças nos atendimentos das consultas psicológicas oferecidas gratuitamente pela ONG PUC-PSI, já que as consultas psicológicas eram oferecidas presencialmente e isto não é possível no momento atual, fazendo com que se tornem online. Sendo assim, este sistema tem o intuito de modificar a gestão destas consultas psicológicas, fazendo com que se tornem automatizadas. É importante esta automatização pois centraliza as informações em um só ambiente, o que auxilia no manuseio dos dados, tornando o processo mais prático, auxiliando no agendamento de consultas, controle da agenda, gerenciamento de contas, entre outros. Pode ser utilizada por psicólogos voluntários, coordenação responsável pelos atendimentos e membros da comunidade.
+O que incentivou a realização desta aplicação é entender que com a atual pandemia, se tornou necessária algumas mudanças nos atendimentos das consultas psicológicas oferecidas gratuitamente pela ONG AstlaApp, já que as consultas psicológicas eram oferecidas presencialmente e isto não é possível no momento atual, fazendo com que se tornem online. Sendo assim, este sistema tem o intuito de modificar a gestão destas consultas psicológicas, fazendo com que se tornem automatizadas. É importante esta automatização pois centraliza as informações em um só ambiente, o que auxilia no manuseio dos dados, tornando o processo mais prático, auxiliando no agendamento de consultas, controle da agenda, gerenciamento de contas, entre outros. Pode ser utilizada por psicólogos voluntários, coordenação responsável pelos atendimentos e membros da comunidade.
 
 ## Público-Alvo
 
