@@ -10,10 +10,6 @@
 |  ***3*** | Roberto é recém formado em psicologia e sempre teve atenção para causas sociais, agora com seu diploma ele vê a oportunidade de prestar ajuda profissional a pessoas que necessitam de atendimento psicológico mas não tem condição financeira para arcar com os custos de uma consulta. Roberto está buscando alguma ONG que o possibilite fazer alguns atendimentos de forma gratuita.|
 |  ***4*** | Paula é gerente uma ONG que atende membros da comunidade de forma gratuita  |
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 94d2ff16e4e3bde47944db9c56992420d8da7e24
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -48,37 +44,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuario cadastre-se no sistema como paciente ou psicólogo | ALTA | 
 |RF-002| Permitir ao usuário autenticar-se no sistema informando email e senha | ALTA |
 |RF-003| Permitir ao psicólogo especificar quais são seus horários de disponibilidade   | MÉDIA |
-|RF-004| Permitir a secretária alocar consultas entre um paciente um psicólogo   | ALTA |
+|RF-004| Permitir ao secretário alocar consultas entre pacientes e psicólogos aprovados   | ALTA |
 |RF-005| Permitir ao usuário alterar sua senha por confirmação de email   | BAIXA |
 |RF-006| Permitir ao administrador criar, alterar e excluir contas de secretário(a)  | MÉDIA |
 |RF-007| Permitir ao secretário visualizar a quantidade de horários vagos disponíveis do mês ou semana corrente   | MÉDIA |
 |RF-008| Permitir ao secretário visualizar um relatório dos registros de psicólogo e paciente   | BAIXA |
-|RF-009| Permitir ao secretário visualizar uma listagem com os dados e situação da conta de psicólogos e pacientes   | BAIXA |
-|RF-010| Permitir ao secretário alterar o status das contas de psicólogos e pacientes para aprovado ou reprovado   | ALTA |
+|RF-009| Permitir ao secretário visualizar uma listagem com os dados e situação da conta de psicólogos e pacientes   | ALTA |
+|RF-010| Permitir ao secretário filtrar pelo nome e status a listagem de psicólogos e pacientes   | MÉDIA |
+|RF-011| Permitir ao secretário alterar o status das contas de psicólogos e pacientes para aprovado ou reprovado   | ALTA |
+|RF-012| Permitir ao secretário ordenar a listagem de psicólogos e pacientes pela data de criação, nome e quantidade de horários de vagos abertos no mês ou semana   | MÉDIA |
+|RF-013| Permitir ao visualizar de forma detalhada os dados de psicólogos e pacientes   | ALTA |
+|RF-014| Permitir ao visualizar de forma detalhada os dados de psicólogos e pacientes   | ALTA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser compatível com dispositivos móveis (*Android e iOS*) | MÉDIA | 
-|RNF-002| O sistema deve possuir uma versão *Web* compatível com os navegadores de internet Google Chrome, Firefox, Safari e Mircrosoft Edge  |  MÉDIA | 
-|RNF-003| O sistema deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
-|RNF-004| O sistema deve possuir uma interface com boa usabilidade, de fácil utilização |  MÉDIA | 
-|RNF-005| O sistema deve promover fácil aprendizado em sua utilização |  MÉDIA | 
-|RNF-006| O sistema deve possuir boa manutenibilidade, tal qual possibilite reparos e evoluções futuras      |  BAIXA | 
-|RNF-007| O sistema deve operar com alta taxa de disponibilidade, acima de 95%      |  ALTA | 
-|RNF-008| O sistema deverá atender às normas legais da Lei Geral de Proteção dos Dados (LGPD)         |  ALTA | 
-|RNF-009| O sistema deve permitir que somente o perfil de Administrador efetue alterações e configurações dos demais perfis existentes  |  BAIXA | 
-|RNF-010| O sistema deve exigir a autenticação de seus respectivos usuários para ser utilizado |  BAIXA | 
-|RNF-011| Os dispositivos móveis (*Smartphones*) devem possuir no mínimo um processador com dois núcleos físicos, 2GB de memória RAM e 4GB de armazenamento interno       |  BAIXA | 
-|RNF-012| O sistema deve efetuar a comunicação e tranporte de informações através do protocolo *Hypertext Transfer Protocol* (HTTP)         |  BAIXA | 
-|RNF-013| O sistema deve ser submetido a testes de unidade, integração e aceitação       |  BAIXA | 
-|RNF-014| A versão do sistema compatível com dispositivos móveis deve ser desenvolvida utilizando o *framework* Flutter, da linguagem de programação Dart     |  MÉDIA | 
-|RNF-015| A versão *Web* do sistema deve ser desenvolvida utilizando o *framework* Angular, da linguagem de programação Javascript        |  MÉDIA | 
-|RNF-016| O sistema deve possuir uma API, a qual deve ser desenvolvida utilizando o *framework* .Net Core, da linguagem de programação C#         |  MÉDIA | 
-|RNF-017| O sistema deve utilizar o banco de dados relacional Microsoft SQL Server        |  BAIXA | 
-
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
