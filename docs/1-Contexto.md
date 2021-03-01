@@ -1,25 +1,15 @@
 # Introdução
 
 ## Problema
-A PUC - PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
+A PUC-PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando (pandemia causada pelo coronavírus) fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
 
 ## Objetivos
 
-Visando resolver o problema da administração de cadastros e agendas dos profissionais da psicologia que atendem através da ONG PUC - PSI foi proposto o desenvolvimento de uma ferramenta a fim de facilitar o manuseio destes dado em uma solução que centralize as informações de agendamento e cadastro dos profissionais. 
+Visando resolver o problema da administração de cadastros e agendas dos profissionais da psicologia que atendem através da ONG PUC-PSI foi proposto o desenvolvimento de uma ferramenta a fim de facilitar o manuseio destes dado em uma solução que centralize as informações de agendamento e cadastro dos profissionais. 
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O que incentivou a realização desta aplicação é entender que com a atual pandemia, se tornou necessária algumas mudanças nos atendimentos das consultas psicológicas oferecidas gratuitamente pela ONG PUC-PSI, já que as consultas psicológicas eram oferecidas presencialmente e isto não é possível no momento atual, fazendo com que se tornem online. Sendo assim, este sistema tem o intuito de modificar a gestão destas consultas psicológicas, fazendo com que se tornem automatizadas. É importante esta automatização pois centraliza as informações em um só ambiente, o que auxilia no manuseio dos dados, tornando o processo mais prático, auxiliando no agendamento de consultas, controle da agenda, gerenciamento de contas, entre outros. Pode ser utilizada por psicólogos, secretários e membros da comunidade.
 
 ## Público-Alvo
 
