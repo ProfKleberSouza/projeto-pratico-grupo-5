@@ -2,10 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas
 |Id        | Persona                                                            |
 |----------|--------------------------------------------------------------------|
@@ -14,7 +10,10 @@
 |  ***3*** | Roberto é recém formado em psicologia e sempre teve atenção para causas sociais, agora com seu diploma ele vê a oportunidade de prestar ajuda profissional a pessoas que necessitam de atendimento psicológico mas não tem condição financeira para arcar com os custos de uma consulta. Roberto está buscando alguma ONG que o possibilite fazer alguns atendimentos de forma gratuita.|
 |  ***4*** | Paula é gerente uma ONG que atende membros da comunidade de forma gratuita  |
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 94d2ff16e4e3bde47944db9c56992420d8da7e24
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -25,8 +24,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário       | Alterar minha senha dentro do sistema e fora, podendo apenas alterá-la por confirmação de e-mail A senha é uma sequência de caracteres que deve conter letras e números, obrigatoriamente                | Controle das minhas credencias no sistema|
 |Administrador |Criar, remover e editar contas de secretários(as), para isso, visualizo uma lista de contas cadastradas contendo nome, e-mail, status e CRP, podendo filtrá-las pelo nome e também posso ordenar por data de criação e ordem alfabética         | Permitir o controle sobre as contas dos secretários(as)|
 |Administrador|Criar, remover e editar contas de psicólogos(as), para isso, visualizo uma lista de contas cadastradas contendo nome, e-mail, status e CPF, podendo filtrá-las pelo nome ou por e-mail e também posso ordenar por data de criação, ordem alfabética e por quantidade de horários vagos abertos no mês ou semana| Permitir o controle sobre as contas dos psicólogos(as)|
-|Secretário(a) |Visualizar os dados de quantidade de horários vagos que ainda estão disponíveis no mês e na semana. Também posso visualizar a quantidade de registros pendentes, reprovados e aprovados de psicólogos(as) cadastrados e dos membros da comunidade, após me autenticar no sistema  | Obter controle da situação a partir dos dados|
-|Secretário(a)|Visualizar os dados de quantidade de horários vagos que ainda estão disponíveis no mês e na semana. Também posso visualizar a quantidade de registros pendentes, reprovados e aprovados de psicólogos(as) cadastrados e dos membros da comunidade |Obter controle da situação a partir dos dados.|
+|Secretário(a)|Visualizar relatório dos dados de quantidade de horários vagos que ainda estão disponíveis no mês e na semana. Também posso visualizar a quantidade de registros pendentes, reprovados e aprovados de psicólogos(as) cadastrados e dos membros da comunidade |Obter controle da situação a partir dos dados.|
 |Secretário(a)|Alterar o status das contas de psicólogos(as), esses status são definidos como aprovado, reprovado e pendente, para isso visualizo uma lista de psicólogos(as) contendo nome, e-mail, status e CRP, podendo filtrá-los pelo nome e status e também posso ordenar por data de criação, ordem alfabética e por quantidade de horários vagos abertos no mês ou semana. Caso necessite alterar o status ou visualizar mais dados da pessoa, posso acessar uma tela separada contendo todas as informações necessárias. |Gerenciar e visualizar as contas de psicólogos(as) cadastrados.|
 |Secretário(a)|Alterar o status das contas dos membros da comunidade, esses status são definidos como aprovado, reprovado e pendente, para isso visualizo uma lista dos membros da comunidade contendo nome, e-mail, status e CPF, podendo filtrá-los pelo nome e status e também posso ordenar por data de criação e ordem alfabética. Caso necessite alterar o status ou visualizar mais dados da pessoa, posso acessar uma tela separada contendo todas as informações necessárias. |Gerenciar e visualizar as contas dos membros da comunidade cadastrados|
 |Secretário(a) |Alocar paciente a um horário de um(a) psicólogos(as), para isso posso visualizar o calendário e a quantidade de profissionais disponíveis para aquele dia, caso eu acesse a data posso ver a lista dos profissionais aprovados e os horários de atendimento disponível, selecionando um profissional posso visualizar a lista de pacientes aprovados e realizar o agendamento da consulta. Após o agendamento é possível selecionar a funcionalidade de envio de e-mail para o profissional e o cliente com os detalhes da consulta.         |Permitir criar agendamentos de consultas e assim preencher os horários disponíveis dos psicólogos(as) para atendimento dos pacientes |
@@ -36,21 +34,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Psicólogo(a) |Visualizar minha lista de horários marcados e pendentes, em outra tela posso visualizar os detalhes do paciente que irei atender e o histórico de atendimento dele |Manter controle sobre minha agenda e visualizar o laudo dos atendimentos anteriores do paciente |
 |Membro da Comunidade|Me cadastrar no sistema da ONG, informando meus dados. Caso tenha uma limitação de horários, posso informá-los para ser atendido quando tiver disponibilidade|Obter acesso ao sistema e poder receber atendimento psicológico |
 |Membro da Comunidade|Posso visualizar o status da minha conta, caso seja aprovado tenho acesso as funcionalidades do sistema. Caso seja reprovado eu consigo visualizar uma tela contendo informações de contato|Obter o feedback do status da minha conta, se estou ou não aprovado para receber auxílio de algum profissional |
-|Membro da Comunidade|Visualizar minha lista de horários marcados no sistema|Controlar minha agenda e visualizar minhas consultas marcadas.|
+|Membro da Comunidade|Visualizar minha lista de horários marcados no sistema|Controlar minha agenda e visualizar minhas consultas marcadas|
 
-
-
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -79,24 +64,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
@@ -105,11 +72,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre letivo |
 |02| O projeto se limita a atender todos os requisitos funcionais, requisitos não funcionais e funcionalidades especificadas neste documento |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
