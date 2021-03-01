@@ -1,11 +1,11 @@
 # Introdução
 
 ## Problema
-> A PUC - PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
+A PUC - PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
 
 ## Objetivos
 
-> Visando resolver o problema da administração de cadastros e agendas dos profissionais da psicologia que atendem através da ONG PUC - PSI foi proposto o desenvolvimento de uma ferramenta a fim de facilitar o manuseio destes dado em uma solução que centralize as informações de agendamento e cadastro dos profissionais. 
+Visando resolver o problema da administração de cadastros e agendas dos profissionais da psicologia que atendem através da ONG PUC - PSI foi proposto o desenvolvimento de uma ferramenta a fim de facilitar o manuseio destes dado em uma solução que centralize as informações de agendamento e cadastro dos profissionais. 
 
 ## Justificativa
 
