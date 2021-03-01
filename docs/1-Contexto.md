@@ -1,13 +1,8 @@
 # Introdução
 
 ## Problema
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
+A PUC - PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
+
 > Nesse momento, o grupo pode optar por fazer uso
 > de ferramentas como Design Thinking, que permite um olhar de ponta a
 > ponta para o problema.
