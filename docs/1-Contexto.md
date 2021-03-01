@@ -2,13 +2,6 @@
 
 ## Problema
 > A PUC - PSI é uma ONG que oferece tratamento psicológico gratuito através do trabalho voluntário de profissionais da área. Devido ao momento pelo qual o mundo vem passando fez-se necessário que as consultas passassem a ser realizadas online gerando a necessidade de haver uma aplicação que fosse capaz de administrar as agendas e os profissionais disponíveis centralizando todos os dados inerentes a esse processo em um só ambiente.
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
