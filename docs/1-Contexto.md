@@ -9,7 +9,7 @@ Visando resolver o problema da administração de cadastros e agendas dos profis
 
 ## Justificativa
 
-O que incentivou a realização desta aplicação é entender que com a atual pandemia, se tornou necessária algumas mudanças nos atendimentos das consultas psicológicas oferecidas gratuitamente pela ONG PUC-PSI, já que as consultas psicológicas eram oferecidas presencialmente e isto não é possível no momento atual, fazendo com que se tornem online. Sendo assim, este sistema tem o intuito de modificar a gestão destas consultas psicológicas, fazendo com que se tornem automatizadas. É importante esta automatização pois centraliza as informações em um só ambiente, o que auxilia no manuseio dos dados, tornando o processo mais prático, auxiliando no agendamento de consultas, controle da agenda, gerenciamento de contas, entre outros. Pode ser utilizada por psicólogos, secretários e membros da comunidade.
+O que incentivou a realização desta aplicação é entender que com a atual pandemia, se tornou necessária algumas mudanças nos atendimentos das consultas psicológicas oferecidas gratuitamente pela ONG PUC-PSI, já que as consultas psicológicas eram oferecidas presencialmente e isto não é possível no momento atual, fazendo com que se tornem online. Sendo assim, este sistema tem o intuito de modificar a gestão destas consultas psicológicas, fazendo com que se tornem automatizadas. É importante esta automatização pois centraliza as informações em um só ambiente, o que auxilia no manuseio dos dados, tornando o processo mais prático, auxiliando no agendamento de consultas, controle da agenda, gerenciamento de contas, entre outros. Pode ser utilizada por psicólogos voluntários, coordenação responsável pelos atendimentos e membros da comunidade.
 
 ## Público-Alvo
 
