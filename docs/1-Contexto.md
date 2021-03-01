@@ -13,18 +13,8 @@ O que incentivou a realização desta aplicação é entender que com a atual pa
 
 ## Público-Alvo
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+Conhecendo e definindo o nosso público-alvo, temos entre ele três perfis de usuários que utilizarão o sistema, são eles:
+
+- Psicólogos voluntários que são profissionais graduados em Psicologia que prestarão o atendimento psicológico gratuito aos pacientes, possivelmente com conhecimentos básicos em tecnologia mas que precisam de um auxílio para o uso do sistema para realizarem as tarefas necessárias.
+- Coordenação responsável pelos atendimentos que são profissionais que vão lidar no dia-a-dia de trabalho com assuntos como agendamentos, cadastros, profissionais disponíveis, horários disponíveis, as demandas, entre outros. Esses profissionais geralmente tem uma familiaridade com a tecnologia, pois possivelmente já atuaram em um cargo que precisaram desse conhecimento.
+- Membros da comunidade são pessoas que estão com necessidade de um atendimento psicológico gratuito e buscam por um agendamento. Podem ser pessoas de diversas idades, desde crianças a idosos.  
